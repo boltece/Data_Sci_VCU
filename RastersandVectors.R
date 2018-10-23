@@ -1,6 +1,6 @@
 
 #### Exercise 1 ####
-## Exploring spatial data
+## Exploring spatial data - Data Carpentry Course
 
 # install packages if necessary
 # install.packages ("raster"); install.packages("rgdal")
