@@ -1,3 +1,4 @@
+
 #### Exercise 1 ####
 ## Exploring spatial data
 
